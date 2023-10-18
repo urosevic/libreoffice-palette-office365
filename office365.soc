@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+<!-- Microsoft Office 365 palette for LibreOffice - manually picked coulours -->
+  <!-- Row 1 -->
+  <draw:color draw:name="White, Background 1" draw:color="#ffffff"/>
+  <draw:color draw:name="Black, Text 1" draw:color="#000000"/>
+  <draw:color draw:name="Light Gray, Background 2" draw:color="#e7e6e6"/>
+  <draw:color draw:name="Blue-Gray, Text 2" draw:color="#42556b"/>
+  <draw:color draw:name="Blue, Accent 1" draw:color="#3577c7"/>
+  <draw:color draw:name="Orange, Accent 2" draw:color="#f07723"/>
+  <draw:color draw:name="Gray, Accent 3" draw:color="#a5a5a5"/>
+  <draw:color draw:name="Gold, Accent 4" draw:color="#ffbb00"/>
+  <draw:color draw:name="Blue, Accent 5" draw:color="#519fd7"/>
+  <draw:color draw:name="Green, Accent 6" draw:color="#73ac41"/>
+  <draw:color draw:name="Row 1 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Pastel Green" draw:color="#7fa04c"/>
+  <!-- Row 2 -->
+  <draw:color draw:name="White, Background 1, Darker 5%" draw:color="#f2f2f2"/>
+  <draw:color draw:name="Black, Text 1, Lighter 50%" draw:color="#7f7f7f"/>
+  <draw:color draw:name="Light Gray, Background 2, Darker 10%" draw:color="#d0cece"/>
+  <draw:color draw:name="Blue-Gray, Text 2, Lighter 80%" draw:color="#d5dce4"/>
+  <draw:color draw:name="Blue, Accent 1, Lighter 80%" draw:color="#d8e3f4"/>
+  <draw:color draw:name="Orange, Accent 2, Lighter 80%" draw:color="#fce4d4"/>
+  <draw:color draw:name="Gray, Accent 3, Lighter 80%" draw:color="#ededed"/>
+  <draw:color draw:name="Gold, Accent 4, Lighter 80%" draw:color="#fff0ca"/>
+  <draw:color draw:name="Blue, Accent 5, Lighter 80%" draw:color="#ddecf7"/>
+  <draw:color draw:name="Green, Accent 6, Lighter 80%" draw:color="#e3efd8"/>
+  <draw:color draw:name="Row 2 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Light Lime" draw:color="#bbe33d"/>
+  <!-- Row 3 -->
+  <draw:color draw:name="White, Background 1, Darker 15%" draw:color="#d8d8d8"/>
+  <draw:color draw:name="Black, Text 1, Lighter 35%" draw:color="#595959"/>
+  <draw:color draw:name="Light Gray, Background 2, Darker 25%" draw:color="#aeabab"/>
+  <draw:color draw:name="Blue-Gray, Text 2, Lighter 60%" draw:color="#acbacb"/>
+  <draw:color draw:name="Blue, Accent 1, Lighter 60%" draw:color="#b1c8e8"/>
+  <draw:color draw:name="Orange, Accent 2, Lighter 60%" draw:color="#f9c9aa"/>
+  <draw:color draw:name="Gray, Accent 3, Lighter 60%" draw:color="#dbdbdb"/>
+  <draw:color draw:name="Gold, Accent 4, Lighter 60%" draw:color="#ffe295"/>
+  <draw:color draw:name="Blue, Accent 5, Lighter 60%" draw:color="#bbd9ef"/>
+  <draw:color draw:name="Green, Accent 6, Lighter 60%" draw:color="#c6dfb1"/>
+  <draw:color draw:name="Row 3 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Pastel Dark Blue" draw:color="#305496"/>
+  <!-- Row 4 -->
+  <draw:color draw:name="White, Background 1, Darker 25%" draw:color="#bfbfbf"/>
+  <draw:color draw:name="Black, Text 1, Lighter 25%" draw:color="#3f3f3f"/>
+  <draw:color draw:name="Light Gray, Background 2, Darker 50%" draw:color="#757070"/>
+  <draw:color draw:name="Blue-Gray, Text 2, Lighter 40%" draw:color="#8297b1"/>
+  <draw:color draw:name="Blue, Accent 1, Lighter 40%" draw:color="#89addd"/>
+  <draw:color draw:name="Orange, Accent 2, Lighter 40%" draw:color="#f7ad7f"/>
+  <draw:color draw:name="Gray, Accent 3, Lighter 40%" draw:color="#c9c9c9"/>
+  <draw:color draw:name="Gold, Accent 4, Lighter 40%" draw:color="#ffd55b"/>
+  <draw:color draw:name="Blue, Accent 5, Lighter 40%" draw:color="#98c5e6"/>
+  <draw:color draw:name="Green, Accent 6, Lighter 40%" draw:color="#aacf8a"/>
+  <draw:color draw:name="Row 4 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="TechWebUX Blue" draw:color="#0f4c81"/>
+  <!-- Row 5 -->
+  <draw:color draw:name="White, Background 1, Darker 35%" draw:color="#a5a5a5"/>
+  <draw:color draw:name="Black, Text 1, Lighter 15%" draw:color="#262626"/>
+  <draw:color draw:name="Light Gray, Background 2, Darker 75%" draw:color="#3a3838"/>
+  <draw:color draw:name="Blue-Gray, Text 2, Darker 25%" draw:color="#304050"/>
+  <draw:color draw:name="Blue, Accent 1, Darker 25%" draw:color="#225898"/>
+  <draw:color draw:name="Orange, Accent 2, Darker 50%" draw:color="#853800"/>
+  <draw:color draw:name="Gray, Accent 3, Darker 25%" draw:color="#7b7b7b"/>
+  <draw:color draw:name="Gold, Accent 4, Darker 25%" draw:color="#c28c00"/>
+  <draw:color draw:name="Blue, Accent 5, Darker 25%" draw:color="#1879b7"/>
+  <draw:color draw:name="Green, Accent 6, Darker 25%" draw:color="#558030"/>
+  <draw:color draw:name="Row 5 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Twitter Blue" draw:color="#1d9bf0"/>
+  <!-- Row 6 -->
+  <draw:color draw:name="White, Background 1, Darker 50%" draw:color="#7f7f7f"/>
+  <draw:color draw:name="Black, Text 1, Lighter 5%" draw:color="#0c0c0c"/>
+  <draw:color draw:name="Light Gray, Background 2, Darker 90%" draw:color="#171616"/>
+  <draw:color draw:name="Blue-Gray, Text 2, Darker 50%" draw:color="#212b35"/>
+  <draw:color draw:name="Blue, Accent 1, Darker 50%" draw:color="#173b65"/>
+  <draw:color draw:name="Orange, Accent 2, Darker 25%" draw:color="#c85400"/>
+  <draw:color draw:name="Gray, Accent 3, Darker 50%" draw:color="#525252"/>
+  <draw:color draw:name="Gold, Accent 4, Darker 50%" draw:color="#815d00"/>
+  <draw:color draw:name="Blue, Accent 5, Darker 50%" draw:color="#11517a"/>
+  <draw:color draw:name="Green, Accent 6, Darker 50%" draw:color="#395520"/>
+  <draw:color draw:name="Row 6 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="PornHub Orange" draw:color="#ff9900"/>
+  <!-- Row 7 - Separator -->
+  <draw:color draw:name="Row 7 Spacer 1" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 2" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 3" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 4" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 5" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 6" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 7" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 8" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 9" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 10" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Row 7 Spacer 11" draw:color="#f0f0f0"/>
+  <draw:color draw:name="Note Yellow" draw:color="#fff2cc"/>
+  <!-- Row 8 -->
+  <draw:color draw:name="Dark Red" draw:color="#c30000"/>
+  <draw:color draw:name="Red" draw:color="#ff0000"/>
+  <draw:color draw:name="Orange" draw:color="#ffbb00"/>
+  <draw:color draw:name="Yellow" draw:color="#fffb00"/>
+  <draw:color draw:name="Light Green" draw:color="#96ce47"/>
+  <draw:color draw:name="Green" draw:color="#0eaf4b"/>
+  <draw:color draw:name="Light Blue" draw:color="#00b5f3"/>
+  <draw:color draw:name="Blue" draw:color="#0076c3"/>
+  <draw:color draw:name="Dark Blue" draw:color="#002562"/>
+  <draw:color draw:name="Purple" draw:color="#6c37a2"/>
+  <draw:color draw:name="Excel Active Cell Border Green" draw:color="#227345"/>
+  <draw:color draw:name="Grid Line Gray" draw:color="#e0e0e0"/>
+</ooo:color-table>
